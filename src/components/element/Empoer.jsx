@@ -6,7 +6,7 @@ export default function () {
       <div className="container1 text-light text-center mt-5 ">
 
 <div className="row">
-  <div className="col-12">
+  <div className="col-md-12">
     <div>
       <h1 className='display-1 fw-bold' data-aos="zoom-in-right">An empowered, interconnected world</h1>
       <h4>

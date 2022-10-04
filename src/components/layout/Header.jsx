@@ -6,7 +6,7 @@ export default function Header() {
     <nav class="navbar navbar-expand-lg navbar-light sticky-top">
       <div className="container text-dark">
         <a className="navbar-brand" href="#">
-          <img src="assets/download.png" alt=" " width={200} />
+          <img src="assets/download.png" alt=" " width={100} />
         </a>
         <button
           className="navbar-toggler"

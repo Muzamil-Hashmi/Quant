@@ -4,7 +4,7 @@ export default function Designed() {
   return (
     <div className="container mt-5">
         <div className="row">
-          <div className="col-6">
+          <div className="col-md-6">
 
 <div>
   <h1 className='display-1 fw-bold'data-aos="zoom-in-right" > Designed for the future</h1>
@@ -15,9 +15,9 @@ export default function Designed() {
 
 
           </div>
-          <div className="col-6">
+          <div className="col-md-6">
 
-          <img className="img-fluid" data-aos="fade-left" src="assets/door.png" alt=" " />
+          <img className="img-fluid" data-aos="fade-top" src="assets/door.png" alt=" " />
 
           </div>
         </div>

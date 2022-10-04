@@ -46,7 +46,7 @@ export default function Tooken() {
           />
         </div>
 
-        <div className="col-md-4 mt-5">
+        <div className="col-md-4">
           <div>
             <div className="head">
             <h4 className="mx-2"> Compliance</h4>

@@ -12,7 +12,7 @@ export default function () {
         <div className="bg-img ">
           <div className="row ">
             <div className="col-4  mt-4 ">
-              <div className="card   " id="card1" style={{ width: "20rem", position:"absolute" , right:"0" } }>
+              <div className="card   " id="card1" style={{ width: "30rem", position:"absolute" , right:"0" } }>
                 <div className="card-body my-2 ">
                     <h6>news</h6>
                     <h6>03 October 2022</h6>
@@ -39,7 +39,7 @@ export default function () {
         </div>
 
         <div className="row">
-        <div className="col-md-3 ">
+        <div className="col-md-3 mt-3 ">
                 <div className="card   " style={{ width: "15rem"  } }>
                 <div className="card-body ">
                     <h6>news</h6>
@@ -60,7 +60,7 @@ export default function () {
               </div>
 
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-3 mt-3">
                 <div className="card   " style={{ width: "15rem"  } }>
                 <div className="card-body ">
                     <h6>news</h6>
@@ -81,7 +81,7 @@ export default function () {
               </div>
 
                 </div>
-                <div className="col-md-3 ">
+                <div className="col-md-3 mt-3 ">
                 <div className="card   " style={{ width: "15rem"  } }>
                 <div className="card-body ">
                     <h6>news</h6>
@@ -102,7 +102,7 @@ export default function () {
               </div>
 
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-3 mt-3">
                 <div className="card   " style={{ width: "15rem"  } }>
                 <div className="card-body ">
                     <h6>news</h6>

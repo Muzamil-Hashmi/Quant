@@ -10,7 +10,7 @@ function Footer() {
 
       <div className="row">
 
-        <div className="col-md-3 ">
+        <div className=" col-6 col-md-2   ">
 
 <h6 className='tag fw-bold'>Who We Serve</h6>
 
@@ -21,7 +21,7 @@ function Footer() {
 <p>partners</p>
 <p>Developers</p>
         </div>
-        <div className="col-md-2 ">
+        <div className="col-6 col-md-2  ">
 
 <h6 className='tag fw-bold'>Who We Do</h6>
 
@@ -32,7 +32,7 @@ function Footer() {
 <p>partners</p>
 <p>Developers</p>
         </div>
-        <div className="col-md-2 ">
+        <div className="col-6 col-md-2  ">
 
 <h6 className='tag fw-bold'>Who We Do It</h6>
 
@@ -43,7 +43,7 @@ function Footer() {
 <p>Insurnace</p>
 <p>Encosystem</p>
         </div>
-        <div className="col-md-3">
+        <div className="col-6 col-md-2 ">
 
 <h6 className='tag fw-bold'>WHAT IS MATTERS</h6>
 
@@ -54,7 +54,7 @@ function Footer() {
 <p>Matters</p>
 <p>Events</p>
         </div>
-        <div className="col-md-2 ">
+        <div className="col-6 col-md-2 ">
 
 <h6 className='tag fw-bold'>ABOUT US</h6>
 
