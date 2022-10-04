@@ -1,0 +1,91 @@
+.container1{
+    background-image:url('../public/assets/bg.jpg');
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+.navbar{
+    background-color: #ffffff;
+    opacity: 0.9;
+    position: absolute;
+}
+.video{
+    border-radius: 70% 10% 20% 0% / 50% 20% 0% 20%  ;
+}
+.button{
+    border-radius: 0% 20% 0% 20% / 0% 40% 0% 40%     ;
+    border-color: rgb(255, 108, 2);
+    background-color: #ffffff;
+    width: 150px;
+    height: 60px;
+    margin-top: 30px;
+    &:hover{background-color:rgb(255, 108, 2) ; color: #ffffff;}
+    animation: forwards;
+
+    
+}
+body{
+    overflow-x:hidden;
+}
+
+.section h3:hover {
+    color: #ff8400;
+
+}
+
+.bg-img{
+    background-image: url('../public/assets/card.png');
+    height: 300px;
+    position: relative;
+}
+#card1{
+    text-align:left;
+    border-radius: 18% 17% 18% 18% / 0% 0% 0% 25% ;
+    padding: 5px;
+    
+    
+
+}
+.btn1{
+    color: #f69673;
+    background-color:#fcded3;
+    // border-radius: 14% 17% 13% 19% / 14% 12% 15% 19% ;
+    border-radius:5px;
+    text-decoration: none;
+}
+.style9{
+    font-size: 10px;
+    ul li:hover {background: #555;}
+ul li:hover ul {display: block;}
+}
+ul li ul {
+    position: absolute;
+    width: 200px;
+    display: none;
+    background-color: #ffffff;
+    
+  }
+ul li:hover{
+    color: #000000;
+    
+}
+ul:hover a{
+    color: #ff8400;
+}
+ul li:hover ul{display: block;}
+ul li ul li { 
+    background: #555; 
+    display: block; 
+  }
+ul li ul li a {display:block !important;} 
+ul li ul li:hover {background: #666;}
+.head:hover{
+    border-left: #ff8400 2px solid;
+    .pera{
+        opacity: 1;
+    
+    }
+}
+.pera{
+    opacity: 0;
+}
